@@ -15,8 +15,8 @@ AWS | CI/CD | Terraform | Docker | Kubernetes | Automation
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayaprakash-n&label=Profile+Views&style=for-the-badge&color=22c55e" />
-  <img src="https://img.shields.io/github/followers/jayaprakash-n?style=for-the-badge&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=jayaprakashn24&label=Profile+Views&style=for-the-badge&color=22c55e" />
+  <img src="https://img.shields.io/github/followers/jayaprakashn24?style=for-the-badge&color=6366f1" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-0ea5e9?style=for-the-badge&logo=linkedin" />
 </p>
 
