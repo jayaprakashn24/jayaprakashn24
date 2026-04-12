@@ -22,7 +22,6 @@ AWS | CI/CD | Terraform | Docker | Kubernetes | Automation
 
 <h3 align="center">DevOps Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD Automation</h3>
 
----
 
 ## 👋 About Me
 I am **Jayaprakash Nagarajan**, a **DevOps Engineer from India** with hands-on experience in **AWS cloud infrastructure, CI/CD automation, containerization, and Infrastructure as Code**.
