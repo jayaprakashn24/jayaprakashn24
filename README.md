@@ -60,7 +60,7 @@ I specialize in building **secure, automated CI/CD pipelines**, deploying scalab
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <!-- First Row -->
+  <!-- Row 1 -->
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
   &nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
@@ -68,27 +68,29 @@ I specialize in building **secure, automated CI/CD pipelines**, deploying scalab
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" />
   &nbsp;
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
   <br /><br />
 
-  <!-- Second Row -->
+  <!-- Row 2 -->
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" />
-  &nbsp;
+  <br /><br />
+
+  <!-- Row 3 -->
   <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" />
-  <br /><br />
-
-  <!-- Third Row -->
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" />
-  &nbsp;
+  <br /><br />
+
+  <!-- Row 4 -->
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=maven" width="50" height="50" />
