@@ -59,7 +59,7 @@ I specialize in building **secure, automated CI/CD pipelines**, deploying scalab
 ## 🛠️ Tech Stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
@@ -74,7 +74,7 @@ I specialize in building **secure, automated CI/CD pipelines**, deploying scalab
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
