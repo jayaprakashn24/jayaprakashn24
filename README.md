@@ -59,42 +59,38 @@ I specialize in building **secure, automated CI/CD pipelines**, deploying scalab
 ## 🛠️ Tech Stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
-  <br /><br />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
-  <!-- Row 2 -->
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" />
-  <br /><br />
-
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" />
-  <br /><br />
-
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" width="50" height="50" />
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
