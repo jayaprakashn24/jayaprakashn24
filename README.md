@@ -94,6 +94,18 @@ I specialize in building **secure, automated CI/CD pipelines**, deploying scalab
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+---
+
+## 🏅 Certifications & Training
+- Crash Course: Kubernetes For Absolute Beginners
+- KodeKloud Engineer - Git (Level 1)
+- KodeKloud Engineer - Linux (Level 1)
+- Docker Training Course for the Absolute Beginner
+- Crash Course: Docker For Absolute Beginners
+
+---
+
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:jayaprakashn900@gmail.com">
